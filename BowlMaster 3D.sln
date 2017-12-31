@@ -1,14 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlMaster 3D", "Assembly-CSharp.csproj", "{86645622-9177-58CE-A023-31AF340AADE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlMaster 3D", "Assembly-CSharp-Editor.csproj", "{C79AD496-E202-8E00-9DB7-15F406981CFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{86645622-9177-58CE-A023-31AF340AADE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86645622-9177-58CE-A023-31AF340AADE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86645622-9177-58CE-A023-31AF340AADE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86645622-9177-58CE-A023-31AF340AADE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C79AD496-E202-8E00-9DB7-15F406981CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C79AD496-E202-8E00-9DB7-15F406981CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C79AD496-E202-8E00-9DB7-15F406981CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C79AD496-E202-8E00-9DB7-15F406981CFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
